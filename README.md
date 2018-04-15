@@ -8,4 +8,5 @@ TODO:
 1. color convertion
 2. frames pool for multi-input<-->multi-output
 3. frames batching
-4. optimzation balance decoding strategy & infenrce batch slection
+4. I frame decoding option
+5. optimzation balance decoding strategy & infenrce batch slection
