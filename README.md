@@ -1,4 +1,7 @@
 # NVVA
+
+NVIDIA Video Analizer[NVVA]
+a tool based on ffmpeg and nvidia vidieo SDK 
 Finish following functions:
 1. HW decoding/SW decoding/Mixed decoding
 2. frame data scale, focus on resize
